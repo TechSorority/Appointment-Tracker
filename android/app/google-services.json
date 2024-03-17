@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1083635451846",
+    "project_id": "appointment-tracker-2b15e",
+    "storage_bucket": "appointment-tracker-2b15e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083635451846:android:a7745eb84a1e7458ae94c7",
+        "android_client_info": {
+          "package_name": "com.company.appointmenttracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1JFtM1XBzrOI2MQHsleaSzp7h249lHGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083635451846:android:40f7d081bc5e6eabae94c7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1JFtM1XBzrOI2MQHsleaSzp7h249lHGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083635451846:android:25aa66c0191d4d16ae94c7",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1JFtM1XBzrOI2MQHsleaSzp7h249lHGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
