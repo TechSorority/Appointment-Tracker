@@ -1,1 +1,3 @@
-this app helps you to track your appointment with the doctor.this page is the interface for the users.
+this app helps you to track your appointment with the doctor.this page is the interface for the users.A quick tip to cut down on time spent at the doctor. this app just makes visiting a doctor a little bit easier,as we are all familiar with the confusion and delays that accompany that experience.
+this app allows you to stay on top of your doctors appointment no matter where you are. It just allows you to know which doctor's appointment number is currently in, which gives us a ballpark idea of when our appointment will be.
+The given is the admin page, which is regularly updated by the person in charge of scheduling or making announcements. The user page, on the other hand, shows the same token number with every update, but it differs in that it lacks a button to adjust the quantity.
